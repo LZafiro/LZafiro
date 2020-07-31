@@ -35,7 +35,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://github.com/LZafiro/LZafiro/blob/master/assets/java.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LZafiro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LZafiro&layout=compact&hide=coq&theme=gruvbox)
 
 [compiler_proj]: https://github.com/LZafiro/ECOMP---UNIFESP/tree/master/ECOMP%20-%20Full%20Computer%20Dev.%20Laboratories/C-%20Compiler%20(ZAFx32)
 [ask]: https://github.com/LZafiro/LZafiro/issues
