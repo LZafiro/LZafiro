@@ -1,4 +1,11 @@
-### Hi there 👋 vv
+### Hi there, I'm Luiz 👋
+<!-- Colocar aqui redes sociais, por exp -->
+
+Hi, I'm Luiz Felipe Raveduti Zafiro, a passionate programmer and Computer Engineering student from São Pualo, Brazil 📚
+
+- 💻 I'm currently working on a C- compiler design for my own processor architecture![compiler_proj]
+
+- I'm curently learning 
 
 <!--
 **LZafiro/LZafiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[compiler_proj]: https://github.com/LZafiro/ECOMP---UNIFESP/tree/master/ECOMP%20-%20Full%20Computer%20Dev.%20Laboratories/C-%20Compiler%20(ZAFx32)
