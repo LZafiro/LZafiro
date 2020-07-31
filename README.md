@@ -3,7 +3,7 @@
 
 Hi, I'm Luiz Felipe Raveduti Zafiro, a passionate programmer and Computer Engineering student from São Pualo, Brazil 📚
 
-- 💻 I'm currently working on a C- compiler design for my own processor architecture![compiler_proj]
+- 💻 I'm currently working on a [C- compiler][compiler_proj] design for my own processor architecture!
 
 - I'm curently learning 
 
