@@ -15,7 +15,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/luiz-felipe-raveduti-zafiro-3b566a139/">
-  <img align="left" alt="Luiz Zafiro | Linkedin" width="22px" src=https://github.com/LZafiro/LZafiro/blob/master/assets/linkedin.svg" />
+  <img align="left" alt="Luiz Zafiro | Linkedin" width="22px" src="https://github.com/LZafiro/LZafiro/blob/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/LuizFelipeZafiro/">
   <img align="left" alt="Luiz Zafiro | Facebook" width="22px" src="https://github.com/LZafiro/LZafiro/blob/master/assets/facebook.svg" />
