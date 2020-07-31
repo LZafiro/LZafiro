@@ -14,8 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left alt="Luiz Zafiro | Linkedin" width="22px" src="">][linkedin]
-[][facebook]
+[<img align="left alt="Luiz Zafiro | Linkedin" width="22px" src="https://github.com/LZafiro/LZafiro/blob/master/assets/linkedin.svg"/>][linkedin]
+[<img align="left alt="Luiz Zafiro | Linkedin" width="22px" src="https://github.com/LZafiro/LZafiro/blob/master/assets/facebook.svg"/>][facebook]
 
 [compiler_proj]: https://github.com/LZafiro/ECOMP---UNIFESP/tree/master/ECOMP%20-%20Full%20Computer%20Dev.%20Laboratories/C-%20Compiler%20(ZAFx32)
 [ask]: https://github.com/LZafiro/LZafiro/issues
+[linkedin]: https://www.linkedin.com/in/luiz-felipe-raveduti-zafiro-3b566a139/
+[facebook]: https://www.facebook.com/LuizFelipeZafiro/
