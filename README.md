@@ -37,7 +37,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LZafiro&layout=compact&hide=coq&theme=gruvbox)
 
-[compiler_proj]: https://github.com/LZafiro/ECOMP---UNIFESP/tree/master/ECOMP%20-%20Full%20Computer%20Dev.%20Laboratories/C-%20Compiler%20(ZAFx32)
+[compiler_proj]: https://github.com/LZafiro/cMinus-Compiler
 [ask]: https://github.com/LZafiro/LZafiro/issues
 [linkedin]: https://www.linkedin.com/in/luiz-felipe-raveduti-zafiro-3b566a139/
 [facebook]: https://www.facebook.com/LuizFelipeZafiro/
