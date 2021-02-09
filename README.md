@@ -4,7 +4,7 @@
 
 - 💻 I'm currently working on a [C- compiler][compiler_proj] for my own processor architecture!
 
-- ✏️ I'm curently learning JavaScript & Python
+- ✏️ I'm curently learning TypeScript/JavaScript & Python
 
 - 💬 Ask me about anything [here!][ask]
 
