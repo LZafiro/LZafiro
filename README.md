@@ -35,8 +35,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://github.com/LZafiro/LZafiro/blob/master/assets/java.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LZafiro&layout=compact&hide=coq&theme=gruvbox)
-
 [compiler_proj]: https://github.com/LZafiro/cMinus-Compiler
 [ask]: https://github.com/LZafiro/LZafiro/issues
 [linkedin]: https://www.linkedin.com/in/luiz-felipe-raveduti-zafiro-3b566a139/
