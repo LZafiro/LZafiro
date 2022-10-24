@@ -4,11 +4,11 @@
 
 - 💻 I'm currently working on a [C- compiler][compiler_proj] for my own processor architecture!
 
-- ✏️ I'm curently learning TypeScript/JavaScript & Python
+- ✏️ I'm curently learning NextJs and tRCP API building
 
 - 💬 Ask me about anything [here!][ask]
 
-- 📆 2020 Goals: Contribute more to Open Source projects
+- 📆 2022 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love animals, I have two cats and one dog! 
 
