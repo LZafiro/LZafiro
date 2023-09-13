@@ -1,16 +1,14 @@
 ### Hi there, I'm Luiz 👋
 
-### Hi, I'm Luiz Felipe Raveduti Zafiro, a passionate programmer and Computer Engineering student from São Paulo, Brazil 📚
+### Hi, I'm Luiz Felipe Raveduti Zafiro, Computer Engineer from São Paulo, Brazil 📚
 
-- 💻 I'm currently working on a [C- compiler][compiler_proj] for my own processor architecture!
-
-- ✏️ I'm curently learning NextJs and tRCP API building
+- ✏️ I'm currently learning Go (Golang)!
 
 - 💬 Ask me about anything [here!][ask]
 
-- 📆 2022 Goals: Contribute more to Open Source projects
+- 📆 2023 Goals: Contribute more to Open Source projects
 
-- ⚡ Fun fact: I love animals, I have two cats and one dog! 
+- ⚡ Fun fact: I love animals, I have two cats, Luna and Linux! 
 
 ### Connect with me:
 
