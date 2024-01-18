@@ -6,8 +6,7 @@
 
 - 💬 Ask me about anything [here!][ask]
 
-- 📆 2023 Goals: Contribute more to Open Source projects
-
+- 📆 2024 Goals: Build awesome projects and share with the community!
 - ⚡ Fun fact: I love animals, I have two cats, Luna and Linux! 
 
 ### Connect with me:
