@@ -2,7 +2,7 @@
 
 ### Hi, I'm Luiz Felipe Raveduti Zafiro, Computer Engineer from São Paulo, Brazil 📚
 
-- ✏️ I'm currently learning Go (Golang)!
+- ✏️ I'm currently learning NestJs and NextJs!
 
 - 💬 Ask me about anything [here!][ask]
 
